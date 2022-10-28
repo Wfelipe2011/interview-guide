@@ -196,7 +196,7 @@ Ver o template de perguntas especificas
 - [Java](TEMPLATE-JAVA.md)
 - [NODE](TEMPLATE-NODE.md)
 - [TYPESCRIPT](TEMPLATE-TYPESCRIPT.md)
-- [Kotlin](TEMPLATE-KOTLIN.md)
+- [Kotlin](src/TEMPLATE-KOTLIN.md)
 - [Flutter](TEMPLATE-FLUTTER.md)
 - [React](TEMPLATE-REACT.md)
 - [Angular](TEMPLATE-ANGULAR.md)
