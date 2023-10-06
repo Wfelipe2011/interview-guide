@@ -194,8 +194,8 @@ Ver o template de perguntas especificas
 - [Swift](src/TEMPLATE-SWIFT.md)
 - [.NET](src/TEMPLATE-NET.md)
 - [Java](TEMPLATE-JAVA.md)
-- [NODE](TEMPLATE-NODE.md)
-- [TYPESCRIPT](TEMPLATE-TYPESCRIPT.md)
+- [NodeJs](TEMPLATE-NODE.md)
+- [Typescript](TEMPLATE-TYPESCRIPT.md)
 - [Kotlin](src/TEMPLATE-KOTLIN.md)
 - [Flutter](TEMPLATE-FLUTTER.md)
 - [React](TEMPLATE-REACT.md)
@@ -203,6 +203,7 @@ Ver o template de perguntas especificas
 - [Vue](TEMPLATE-VUE.md)
 - [PHP](TEMPLATE-PHP.md)
 - [Python](TEMPLATE-PYTHON.md)
+- [Serverless](TEMPLATE-SERVERLESS.md)
 
 ## Perguntas abertas - motivação a vaga [5 min]
 
